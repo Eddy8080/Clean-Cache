@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# VS Code
+.vscode/
+
+# Logs e Temporários
+*.log
+*.tmp
+*.bak

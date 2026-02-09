@@ -1,0 +1,10 @@
+yara-python
+pefile
+volatility3
+watchdog
+psutil
+requests
+scikit-learn
+FreeSimpleGUI
+Matplotlib
+pycdlib
